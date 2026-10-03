@@ -1,6 +1,16 @@
 CHOCOLATE TRILOGY: Chocolate-Heretic + Chocolate-Hexen + Chocolate-Strife
 ======================================================================
 
+![choco1.png](https://github.com/nicoku007/CHOCOLATE-TRILOGY-for-Chocolate-Heretic-Hexen-Strife/blob/main/choco1.png?raw=true )
+
+![choco 2.png](https://github.com/nicoku007/CHOCOLATE-TRILOGY-for-Chocolate-Heretic-Hexen-Strife/blob/main/choco%202.png?raw=true )
+
+![choco 3.png](https://github.com/nicoku007/CHOCOLATE-TRILOGY-for-Chocolate-Heretic-Hexen-Strife/blob/main/choco%203.png?raw=true )
+
+![choco 4.png](https://github.com/nicoku007/CHOCOLATE-TRILOGY-for-Chocolate-Heretic-Hexen-Strife/blob/main/choco%204.png?raw=true )
+
+![choco 5.png](https://github.com/nicoku007/CHOCOLATE-TRILOGY-for-Chocolate-Heretic-Hexen-Strife/blob/main/choco%205.png?raw=true )
+
 Chocolate Trilogy is derived from my other project, Crispy Trilogy, and 
 shares the same characteristics; the only exception is that it is not compatible 
 with the new Heretic episode "Faith Renewed" due to the vanilla limitations 
@@ -31,5 +41,5 @@ file must sit right next to these folders to detect the games properly.
 There is no need to move anything else.
 
   CHOCOLATE TRILOGY by "Nicokugame007"
-======================================================================
+
 
