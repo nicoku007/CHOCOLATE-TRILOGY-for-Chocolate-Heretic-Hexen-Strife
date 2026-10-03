@@ -1,5 +1,4 @@
-======================================================================
-     CHOCOLATE TRILOGY: Chocolate-Heretic + Chocolate-Hexen + Chocolate-Strife
+CHOCOLATE TRILOGY: Chocolate-Heretic + Chocolate-Hexen + Chocolate-Strife
 ======================================================================
 
 Chocolate Trilogy is derived from my other project, Crispy Trilogy, and 
